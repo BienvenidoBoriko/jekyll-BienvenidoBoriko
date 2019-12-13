@@ -1,5 +1,5 @@
 # 5 claves para escoger tu televisor OLED en Navidad
-![imagen xbox]({{site.baseurl}}/assets/img/oled.jpg)
+![imagen oled]({{site.baseurl}}/assets/img/oled.jpg)
 
 ¿Llevas meses pensando en cambiar de televisor? Puede que seas de los que espera hasta comparar bien los distintos modelos y elegir. O quizá aproveches las Navidades para darte un capricho o regalarle a alguien cercano ese televisor perfecto. Los motivos para dejarnos caer por nuestro comercio (online o físico) de confianza durante las Naavidades son variados.
 Uno de los productos estrella de cada Navidad son los televisores. Y, en concreto, los paneles OLED. Sus características los convierten en un producto codiciado por los amantes del audiovisual. Además, los televisores LG OLED son los primeros con inteligencia artificial real gracias a la tecnología LG ThinQ® AI y la integración en la plataforma WebOS de Google Assistant, lo que nos permite hablar directamente con el dispositivo.

@@ -1,6 +1,6 @@
 # Redmi Note 8 Pro, Huawei Mate 30 Pro, iPhone 11, Xiaomi Mi Note 10 y la smart TV de Samsung QLED de 8K más baratos: Cazando Gangas.
 
-![imagen xbox]({{site.baseurl}}/assets/img/redmi.jpg)
+![imagen redmi note 8]({{site.baseurl}}/assets/img/redmi.jpg)
 
 Es viernes, falta muy poquito para Navidad y fiel a su cita llega nuestro Cazando Gangas. Si todavía te falta algún regalo, ojo porque en esta edición hay algunos móviles, televisores y robots aspiradores a precios muy atractivos, además de otras buenas rebajas y descuentos. ¡Estas son las mejores ofertas de la semana en electrónica, informática y tecnología!
 ## Móviles, tablets y accesorios

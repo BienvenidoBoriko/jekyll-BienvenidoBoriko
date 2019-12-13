@@ -1,0 +1,11 @@
+# Samsung saca pecho y afirma que ha vendido 1 millón de sus Galaxy Fold, los móviles plegables superan las expectativas.
+
+![imagen samsung galaxi fork]({{site.baseurl}}/assets/img/sfork.png)
+
+El presidente de Samsung Electronics, Young Sohn, participó ayer en el evento TechCrunch Disrupt, y lo hizo destacando algo sorprendente: la empresa ha vendido ya un millón de Samsung Galaxy Fold, los móviles con pantalla plegable que tras los problemas iniciales se pusieron definitivamente a la venta hace unas semanas.
+No parece por tanto que los más de 2.000 euros que cuesta este singular dispositivo hayan sido demasiado problema para unas ventas que de hecho doblan las expectativas que los propios responsables de Samsung tenían sobre el dispositivo.
+## Un buen comienzo tras los problemas iniciales
+Los comienzos del Samsung Galaxy Fold fueron realmente complicados: el fabricante tuvo que retirar las primeras unidades del mercado tras detectarse un problema con sus pantallas, que incluían una capa que algunos confundieron con un protector de pantalla.
+Meses después Samsung logró resolver ese problema y en octubre de 2019 comenzó a ponerlo a la venta en distintas regiones. El mecanismo de bisagra parecía ser muy fiable, y de hecho en pruebas independientes se vio cómo solo tras más de 120.000 pliegues el terminal comenzaba a dar problemas.
+El análisis que hicimos en Xataka confirmó ese buen funcionamiento de un terminal que no obstante lo tenía difícil para convencer a los usuarios por ese precio tan elevado. Parece que finalmente dicho coste no ha resultado ser un problema para el millón de personas que han acabado comprándolo en este tiempo.
+Ciertos datos apuntaban a que Samsung quería vender 6 millones de dispositivos con pantalla plegable a lo largo de 2020, y parece que ese logro no está tan lejos teniendo en cuenta este sorprendente despegue del Galaxy Fold. Sobre todo cuando este no será el único plegable que la empresa tendrá en el mercado: ya está preparando uno con formato concha como el Motorola Razr que se lanzó hace poco.
