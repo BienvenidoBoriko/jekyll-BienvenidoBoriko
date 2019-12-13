@@ -1,5 +1,6 @@
 ---
-    layout: default
+    layout: page
+    author: bienvenido
 ---
 
 # Sobre nosotros

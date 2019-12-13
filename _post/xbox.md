@@ -1,0 +1,18 @@
+---
+---
+
+# Xbox Series X, todo lo que sabemos sobre la nueva y potente consola de Microsoft: 4K a 60fps, ray tracing, nuevo mando y más
+![imagen xbox]({{site.baseurl}}/assets/img/xbox.jpeg)
+
+Xbox Series X es el nombre oficial de la nueva consola de Microsoft. Hasta ahora la habíamos conocido como Project Scarlett y teníamos algunas especificaciones que el propio Phil Spencer se encargó de ofrecer durante el E3 2019, pero junto al nombre definitivo tenemos también un primer vistazo a su diseño, al mando y a muchos datos sobre esta nueva máquina.
+De nuevo, ha sido el propio Phil Spencer el que ha dado a conocer las principales características de la Xbox Series X a través de un artículo publicado en la página oficial de Xbox. Vamos a repasar todo lo que sabemos sobre ella basándonos en los datos oficiales que ha ofrecido Microsoft hasta el momento.
+## Especificaciones técnicas de la Xbox Series X
+Como no podría ser de otra forma, la nueva Xbox Series X será la consola más rápida y potente de la marca. La idea de Microsoft con esta máquina es, según palabras del propio Spencer, establecer un nuevo nivel en cuanto a rendimiento, velocidad y compatibilidad que nos permita a todos seguir disfrutando de los juegos de las anteriores Xbox más todos los que vengan en un futuro.
+A nivel técnico, esto es todo lo que ha confirmado Phil Spencer:
+Gráficos en resolución 4K y 60fps, con la posibilidad de llegar hasta los 120fps e incluyendo compatibilidad con Variable Refresh Rate. No se menciona en ningún momento ninguna otra resolución por debajo de las 4K, pero sí que la consola está preparada para las 8K.
+Procesador personalizado que sacará provecho de Zen 2 y la próxima generación de la arquitectura RDNA de AMD.
+RAM de tipo GDDR6.
+La Xbox Series X ofrecerá ray tracing por hardware y, siempre según palabras de Spencer, un nivel de rendimiento que hasta ahora no hemos visto en ninguna consola.
+De forma adicional, la Xbox Series X incluye una tecnología patentada por Microsoft conocida como Variable Rate Shading que permitirá a los desarrolladores sacar mayor provecho de la GPU de la consola.
+SSD de nueva generación para tratar de eliminar los tiempos de carga.
+Compatibilidad con la tecnología Auto Low Latency Mode para minimizar la latencia, además de ofrecer a los desarrolladores la nueva funcionalidad Dynamic Latency Input que permite mejorar la respuesta de la consola.
