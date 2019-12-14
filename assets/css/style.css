@@ -200,8 +200,8 @@ nav a:hover {
   .aut_fecha {
     margin-top: 0.4em;
     display: flex;
-    flex-flow: row nowrap;
-    width: 50%;
+    flex-flow: row wrap;
+    width: 70%;
     justify-content: space-around;
   }
 

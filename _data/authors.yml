@@ -2,10 +2,10 @@ bienvenido:
   name: bienvenido
   url: bienvenido.com
   descripcion: soy un autor
-  twitter: bienvenido
+  github: https://github.com/BienvenidoBoriko
 
 juan:
   nombre: juan
   url: juan.com
   descripcion: soy un autor
-  twitter: juan
+  github: https://github.com/juan

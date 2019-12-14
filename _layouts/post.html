@@ -4,25 +4,13 @@ layout: default
 {% include nav.html %}
 <article class="post">
 <div class="aut_fecha"> 
-  <i>Autor:{{ page.author }}</i><i>fecha de publicacion:{{ page.fecha | date_to_string }}</i>
+  <i>Autor: {{ site.data.authors[page.author].name }}</i>
+  <i>Github: <a href="{{ site.data.authors[page.author].github }}">{{ site.data.authors[page.author].github }}</a></i>
+  <i>fecha de publicacion:{{ page.fecha | date_to_string }}</i>
 </div>
 {{ content }}
 </article>
 
 {% include footer.html %}
-<!-- Matomo -->
-<script type="text/javascript">
-    var _paq = window._paq || [];
-    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function() {
-      var u="https://bienvenidoboriko.matomo.cloud/";
-      _paq.push(['setTrackerUrl', u+'matomo.php']);
-      _paq.push(['setSiteId', '1']);
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/bienvenidoboriko.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-    })();
-  </script>
-  <!-- End Matomo Code -->
+
   
