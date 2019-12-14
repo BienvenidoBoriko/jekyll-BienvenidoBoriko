@@ -1,24 +1,5 @@
-<!--<header>
 
-   <p>estas en {{ site.title }}</p>
-    <p>Sitio de {{ site.author}} </p>
-
-    <nav>
-        <ul>
-            <li><a href="{{site.baseurl}}/">Home</a></li>
-            <li><a href="{{site.baseurl}}/about.html">About</a></li>
-        </ul>
-    </nav>
-</header>
---> 
 <header>
     <img src="{{site.baseurl}}/assets/img/cabecera.jpg" alt="img de cabezera">
     <h1>Bienvenido a mi Blog de Tecnologia</h1>
-    <nav>
-        <ul>
-            {% for item in site.data.navigation %}
-            <li><a href="{{ item.link }}">{{ item.title }}</a></li>
-            {% endfor %}
-        </ul>
-    </nav>
 </header>

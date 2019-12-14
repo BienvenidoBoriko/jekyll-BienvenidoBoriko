@@ -21,13 +21,15 @@ header img {
     display: block;
 }
 
-header nav {
+nav {
+    position: sticky;
+    top: 0;
     width: 100%;
     margin: 3px 0;
 	background-color: #E64A19;
 }
 
-header nav ul{
+nav ul {
     list-style-type: none;
     display: flex;
     padding: 0;
@@ -53,3 +55,89 @@ nav a {
 nav a:hover { 
 	background-color: rgb(172, 57, 22); 
 }
+
+
+.entradas {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    justify-content: flex-start;
+}
+
+
+
+  /*tarjeta */
+  .targeta a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .targeta.targeta-normal,.targeta.targeta-normal p {
+    background: #fff;
+    color:#262625
+  }
+  .targeta.targeta-oscura,.targeta.targeta-oscura p {
+    background:#2D2F36 ;
+    color:#fffffc;
+  }
+  .targeta {
+      margin-right:3%;
+    margin-top: 0.6em;
+    width: 30%;
+    box-shadow: 0 0 88px 0 rgba(0, 0, 0, 0.1607843137);
+  }
+  .descripcion,.content__footer {
+    margin-left: 0.3em;
+    margin-right: 0.3em;
+  }
+  .descripcion {
+    width:98%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  .targeta .targeta__cabecera,.targeta .targeta__cabecera img {
+    width:100%;
+  }
+  
+  .icon-arrow-right-circle {
+    font-size:0.9em;
+  }
+  .content__footer {
+    display: flex;
+    flex-flow: row nowrap;
+    text-transform: uppercase;
+    padding: 0.3em;
+    border-top:2px solid #d8d8d8;
+    font-size:1.2em;
+    font-weight: bolder;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .content__footer :nth-child(2) span:hover {
+    color: crimson;
+  }
+
+  .content__footer :nth-child(3) span:hover,.content__footer :nth-child(1):hover {
+    color: darkcyan;
+  }
+
+  .content__footer :nth-child(2),.content__footer :nth-child(3) {
+    width: 15%;
+    text-align: end;
+  }
+
+  .content__footer :nth-child(1) {
+    width: 60%;
+  }
+
+  .content__footer :nth-child(1) {
+    width: 60%;
+  }
+
+  .content__footer :nth-child(2),.content__footer :nth-child(3) {
+    display: inline-block;
+    
+  }
+  .targeta .targeta__cabecera .title {
+    text-align: center;
+    border-bottom: 1px solid #d8d8d8;
+  }

@@ -1,9 +1,14 @@
 ---
     layout: inicio
 ---
-<h1>hh</h1>
-{% for post in site.posts %}
-    <h1>hh</h1>
-{% include tarjeta.htm title="{{ post.title }}" descripcion="{{ post.excerpt }}" link="{{ post.url }}" %}
+<article class="entradas">
+
+{% for pos in site.data.post %}
+    {% assign image = site.baseurl | append: pos.img %}
+    {% assign url = site.baseurl | append: pos.url %}
+{% include tarjeta.html title=pos.title descripcion=pos.epigrafe 
+    link=url img= image img_desc=pos.name %}
 
 {% endfor %}
+
+</article>
