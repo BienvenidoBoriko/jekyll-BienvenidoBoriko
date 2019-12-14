@@ -1,9 +1,11 @@
 bienvenido: 
   name: bienvenido
   url: bienvenido.com
-  descripcion: youju
+  descripcion: soy un autor
   twitter: bienvenido
 
 juan:
   nombre: juan
-  descripcion: hola
+  url: juan.com
+  descripcion: soy un autor
+  twitter: juan

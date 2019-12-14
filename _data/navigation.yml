@@ -1,4 +1,6 @@
 - title: Home
-  link: /
+  link: /jekyll-bienvenidoboriko/
 - title: About
   link: /jekyll-bienvenidoboriko/about.html
+- title: Contact
+  link: /jekyll-bienvenidoboriko/contacto.html

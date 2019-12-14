@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?hfc6w');
+  src:  url('fonts/icomoon.eot?hfc6w#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?hfc6w') format('truetype'),
+    url('fonts/icomoon.woff?hfc6w') format('woff'),
+    url('fonts/icomoon.svg?hfc6w#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-copyright:before {
+  content: "\e901";
+}
+.icon-arrow-right-circle:before {
+  content: "\e900";
+}
+.icon-skype:before {
+  content: "\e902";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-user:before {
+  content: "\e971";
+}
+.icon-key:before {
+  content: "\e98d";
+}
+.icon-fedora:before {
+  content: "\e903";
+  color: #294172;
+}
+.icon-github:before {
+  content: "\e904";
+}
+.icon-linkedin:before {
+  content: "\e905";
+  color: #0077b5;
+}

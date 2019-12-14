@@ -1,1 +1,14 @@
-<p>este es el footer</p>
+<footer class="footer">
+    <div class="copyright_text">
+        <span class="icon-copyright"></span>
+        <p>2019 Bienvenido Boriko</p>
+    </div>
+    <div class="git_icon">
+        <a href="https://github.com/BienvenidoBoriko"><span class="icon-github"></span></a> 
+    </div>
+    <div class="iconos_r_sociales">
+        {% for item in site.data.iconos_r_sociales %}
+        <a href="{{ item.link }}"><span class="{{ item.class }}"></span></a>
+        {% endfor %}
+    </div>
+</footer>
