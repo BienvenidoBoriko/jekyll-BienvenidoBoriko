@@ -7,4 +7,4 @@
 # Sobre nosotros
 ### Nombre: Bienvenido
 Aqui estamos nosotros...
-![mapa]({{site.baseurl}}/assets/img/mapa.png)
+![mapa]({{site.baseurl}}/assets/img/mapa.PNG)
