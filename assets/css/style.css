@@ -214,10 +214,15 @@ nav a:hover {
     display: flex;
     flex-flow: row wrap;
     color: #232946;
+    width: 70%;
+    margin: auto;
+  }
+
+  .about:nth-child(1),.about h3,.about h4 {
     width: 100%;
   }
-  .about h2 {
-    width: 80%;
+  .about h2,.about:last-child {
+    width: 70%;
   }
   .about img {width: 200px;
     border-radius: 50%;
