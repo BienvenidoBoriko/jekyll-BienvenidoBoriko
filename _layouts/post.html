@@ -6,7 +6,7 @@ layout: default
 <div class="aut_fecha"> 
   <i>Autor: {{ site.data.authors[page.author].name }}</i>
   <i>Github: <a href="{{ site.data.authors[page.author].github }}">{{ site.data.authors[page.author].github }}</a></i>
-  <i>fecha de publicacion:{{ page.fecha | date_to_string }}</i>
+  <i>fecha de publicacion:{{ page.date | date_to_string }}</i>
 </div>
 {{ content }}
 </article>

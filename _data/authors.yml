@@ -1,11 +1,12 @@
 bienvenido: 
-  name: bienvenido
-  url: bienvenido.com
-  descripcion: soy un autor
+  nombre: Bienvenido
+  profesion: Desarrolador Web
   github: https://github.com/BienvenidoBoriko
-
+  info: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
+  avatar: /assets/img/Music-is-Fun.png 
 juan:
-  nombre: juan
-  url: juan.com
-  descripcion: soy un autor
+  nombre: Juan
+  profesion: Diseñador Web
   github: https://github.com/juan
+  info: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
+  avatar: /assets/img/Music-is-Fun.png

@@ -208,8 +208,24 @@ nav a:hover {
   .aut_fecha>* {
     display: block;
   }
+
+  /*pagina about */
+  .about {
+    display: flex;
+    flex-flow: row wrap;
+    color: #232946;
+    width: 100%;
+  }
+  .about h2 {
+    width: 80%;
+  }
+  .about img {width: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+  }
 /*pagina de contacto*/
-  .about,.contacto {
+  .contacto {
     color: #232946;
   }
   .contacto {
